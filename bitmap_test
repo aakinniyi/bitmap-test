@@ -1,0 +1,7 @@
+require_relative 'lib/bitmap'
+
+bitmap_test = Bitmap.new
+
+loop do
+  bitmap_test.run
+end
