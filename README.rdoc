@@ -1,7 +1,0 @@
-== README
-
-<h3>How to run the a test</h3>
-<tt>$ ruby bitmap_test</tt>
-
-<h3>Original test instruction file</h3>
-gistfile1.md
